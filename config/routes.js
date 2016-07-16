@@ -25,4 +25,4 @@ router.get('/', function (req, res) {
 // router.get('/articles', makanController.AllMakan)
 //
 // // GET ALL USERS
-// router.get('/users', userController.getAllUsers)
+// router.get('/users', userController.AllUsers)
