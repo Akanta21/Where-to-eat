@@ -10,6 +10,7 @@ This repo contains the server-side code for TOLO-Makan, an app to help users dec
 
 ## Notes to the team-members
 1) Upon cloning this repo, run ```npm install``` to ensure that we have the same working environment.
+2) Remember to create a branch prior to working on the files.
 
 2) mlab: to be discussed during our meeting.
 

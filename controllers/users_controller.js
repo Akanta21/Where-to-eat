@@ -6,3 +6,7 @@ function AllUsers (req, res) {
     res.status(200).json(users)
   })
 }
+
+module.exports = {
+  AllUsers: AllUsers
+}

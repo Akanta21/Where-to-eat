@@ -4,11 +4,10 @@ const MakanSchema = new mongoose.Schema({
   name: String, unique: true,
   longitude: String,
   latitude: String,
-  Address: String,
-  Type: String,
-  Categories: String,
-  tags: [],
-  score: Number
+  address: String,
+  type: String,
+  categories: String,
+  price: Number
 })
 
 const Makan = mongoose.model('Makan', MakanSchema)
